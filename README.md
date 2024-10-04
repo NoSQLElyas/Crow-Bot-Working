@@ -1,4 +1,4 @@
-Discord: https://dsc.gg/4wip
+Discord: [Craftology](https://discord.gg/vD8VTY9KEy)
 
 
 Créer un bot
@@ -78,7 +78,6 @@ Calendrier d'exécution : Chaque minute.
 Créez le Cronjob.
 votre bot fonctionne maintenant 24/7.
 ```
-![image](https://github.com/4wip/Crowbot-Fix/assets/168364544/9c70adb6-34f7-44fe-97ad-78b46c2795bf)
 
 ### Crédit
 ```
